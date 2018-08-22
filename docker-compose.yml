@@ -3,6 +3,6 @@ version: '3.1'
 services:
   foundation:
     build: ./
-    image: joshuaatkins/docker-foundation:v0.1
+    image: joshuaatkins/docker-foundation:v1.0
     volumes:
       - .:/app
