@@ -1,0 +1,6 @@
+version: '3.1'
+
+services:
+  foundation:
+    build: ./
+    image: joshuaatkins/docker-foundation:v0.1
